@@ -270,7 +270,7 @@ def topbar(wx,v):
     f2ab.pack(side=BOTTOM,expand=TRUE)
     
 
-    lblInfo=Label(Tops,fg='green', font=('arial',40,'bold'),text ="  CECCPL FIFO systems  ", bd=10,anchor='w')
+    lblInfo=Label(Tops,fg='green', font=('arial',40,'bold'),text ="  SKDD FIFO systems  ", bd=10,anchor='w')
     lblInfo.grid(row=0,column=3)
 
 
